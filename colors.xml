@@ -1,0 +1,6 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="green_text">#00FF6A</color>
+    <color name="icon_bg">#000000</color>
+    <color name="icon_red">#E53935</color>
+</resources>
